@@ -48,6 +48,7 @@ PRODUCT_PACKAGES += \
     OPlusSettingsProviderResTarget_CN \
     OPlusSettingsProviderResTarget_ROW \
     OPlusSettingsResTarget \
+    OPlusSettingsResTargetCN \
     OPlusSystemUIResTarget \
     OPlusWifiResTarget
 

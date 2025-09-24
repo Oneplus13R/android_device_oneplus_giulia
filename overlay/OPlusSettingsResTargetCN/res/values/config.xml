@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- AresOS -->
+    <string name="ares_device_message" translatable="false">OnePlus Ace 5</string>
+    <string name="ares_processor_code_message" translatable="false">Snapdragon 8 Gen 3</string>
+    <string name="ares_battery_type_message" translatable="false">6415 mAh</string>
+    <string name="ares_screen_message" translatable="false">120Hz LTPO Amoled</string>
+
+</resources>

@@ -24,4 +24,10 @@
     -->
     <integer name="config_vibration_supported_intensity_levels">3</integer>
 
+    <!-- AresOS -->
+    <string name="ares_device_message" translatable="false">OnePlus 13R</string>
+    <string name="ares_processor_code_message" translatable="false">Snapdragon 8 Gen 3</string>
+    <string name="ares_battery_type_message" translatable="false">6000 mAh</string>
+    <string name="ares_screen_message" translatable="false">120Hz LTPO Amoled</string>
+
 </resources>
