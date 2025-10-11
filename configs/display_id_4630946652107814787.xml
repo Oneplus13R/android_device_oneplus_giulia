@@ -42,6 +42,6 @@
   <screenBrightnessRampFastIncrease>0.06</screenBrightnessRampFastIncrease>
   <screenBrightnessRampSlowDecrease>0.04</screenBrightnessRampSlowDecrease>
   <screenBrightnessRampSlowIncrease>0.04</screenBrightnessRampSlowIncrease>
-  <screenBrightnessRampIncreaseMaxMillis>3000</screenBrightnessRampIncreaseMaxMillis>
-  <screenBrightnessRampDecreaseMaxMillis>3000</screenBrightnessRampDecreaseMaxMillis>
+  <screenBrightnessRampIncreaseMaxMillis>1000</screenBrightnessRampIncreaseMaxMillis>
+  <screenBrightnessRampDecreaseMaxMillis>1000</screenBrightnessRampDecreaseMaxMillis>
 </displayConfiguration>
