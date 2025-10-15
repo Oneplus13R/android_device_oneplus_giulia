@@ -1,1 +1,10 @@
 import /odm/etc/${ro.boot.prjname}/build.${ro.boot.hardware.revision}.prop
+
+# Bluetooth
+bluetooth.device.default_name=OnePlus 13R
+
+# Device name
+ro.product.marketname=OnePlus 13R
+
+# USB
+vendor.usb.product_string=OnePlus 13R
