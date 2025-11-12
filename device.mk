@@ -42,7 +42,8 @@ PRODUCT_PACKAGES += \
     FrameworksResEuicc_NA \
     OPlusFrameworksResTarget \
     OPlusFrameworksResTargetCN \
-    OPlusSettingsProviderResTarget \
+    OPlusSettingsProviderResTarget_CN \
+    OPlusSettingsProviderResTarget_ROW \
     OPlusSettingsResTarget \
     OPlusSystemUIResTarget \
     OPlusWifiResTarget
